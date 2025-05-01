@@ -40,20 +40,6 @@ A simple and interactive typing speed game built using **Python** and **Tkinter 
 6. Option to play again.
 
 
-## 🔢 WPM Calculation
-
-WPM is calculated using this formula:
-
-## 📝 Example Paragraphs
-
-A few random tongue-twisters or quotes are stored in a list:
-```python
-paragraphs = [
-    "The quick brown fox jumps over the lazy dog.",
-    "Pack my box with five dozen liquor jugs.",
-    "A journey of a thousand miles begins with a single step."
-]
-
 🎯 Possible Improvements
 Save the leaderboard to a local file
 
