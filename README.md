@@ -14,9 +14,6 @@ A simple and interactive typing speed game built using **Python** and **Tkinter 
 - 🏆 Top 5 Leaderboard with usernames
 - 🔁 Play again option after time ends
 
-## 📸 Screenshot
-
-*(Add a screenshot of your game window here if you'd like)*
 
 ## 🛠️ Tech Stack
 
